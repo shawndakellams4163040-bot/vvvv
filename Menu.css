@@ -1,0 +1,46 @@
+body { background-image:url(Congratulations\ Congratulations.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+    
+   }
+
+h1 { 
+    font-size: 12vw;
+     font-family: 'TH Sarabun New','arial' ;
+     text-align: center;
+     position: relative;
+     display: block;
+    margin:auto;
+
+}
+
+ba2 {
+    border: 3px outset rgb(248, 55, 151);
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 1%;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    display: block;
+    position: relative;
+    bottom: -200px;
+    margin: auto;
+    width: 50%;
+}
+div { font-family: 'TH Sarabun New';
+        size: 80px;
+        display: relative ;
+        text-align: center;
+        position: relative ;
+        align-items: center;
+        bottom:48%;
+        top: 20vw;
+        
+}
+[role=button]{
+    background-color:rgb(152, 161, 243) ;
+}
+

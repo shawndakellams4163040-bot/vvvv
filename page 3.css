@@ -1,0 +1,45 @@
+body {
+    background-image:url(nb_backgroud.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+}
+
+/* div คุมบริเวณนอกกล่อง text_a คุมตัวกล่อง*/
+div{
+    position: relative;
+    top: 10%;
+    bottom: 50%;
+    left: 38%;
+    border: 1000px;
+    
+    
+}
+
+#text_a{ 
+    border: 1000px black;
+    width: 25%;
+    display: inline-block;
+    font-size: 36px;
+    background-color: aqua;
+    outline-style: solid;
+    outline-width: 25%;
+    
+}
+.head{
+    margin: 100px;
+    font-family: 'TH Sarabun New';
+    text-align: center;
+    font-size: 120px;
+
+}
+button{
+margin: 100px;
+text-align: center;;
+position: relative;
+align-items: center;
+left: 35px;
+width: 200px;
+height: 50px;
+}
